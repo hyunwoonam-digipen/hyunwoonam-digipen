@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hyunwoo Nam - digipen
 <!--
 **hyunwoonam-digipen/hyunwoonam-digipen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Assignment - Git & GitHub
+
+- [x] Created a GitHub account that has your digipen user name or something that it is close to it
+- [x] Created a profile ReadMe
+- [x] Created a markdown file in the repository explaining what you learned and what you are still confused about
